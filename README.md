@@ -1,6 +1,7 @@
 # Bem-vindo(a) ao perfil do Wellington Amaral, ou se preferir Well.
-### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas que me agregam, para mim vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas.
-#### Grandes realizações são possiveis quando se dá atenção aos pequenos começos. Lao-Tse.
+#### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas que me agregam, para mim vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas. Mas confesso que as vezes falta com quem conversar sobre tudo isso.😁
+E abaixo segue algunas frases que moivam:
+##### "Grandes realizações são possiveis quando se dá atenção aos pequenos começos. Lao-Tse." 
 
 <div>
 
