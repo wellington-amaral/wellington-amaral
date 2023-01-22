@@ -6,15 +6,13 @@
 ##### "O mundo não espera por você, então se mexa" Autor desconhecido.
 ##### "Seja uma raposa e um leão. Seja esperto como uma raposa que é capaz de descobrir uma armadilha, mas mostre a coragem de um leão que é capaz de afugentar os lobos." Maquiavel
 ##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos." Livro: Os segredos da mente milionária.
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Femojiterra.com%2Fpt%2Fbandeira-franca%2F&psig=AOvVaw0EskOq125aeUbHayvp0QBj&ust=1674513732276000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjdtfGf3PwCFQAAAAAdAAAAABAE">
+
   
 
 <div>
-
 <a href="https://github.com/wellington-amaral">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellington-amaral&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +21,7 @@
 
 <br>
 
-## Redes sociais abaixo
+## Redes sociais abaixo/ social networks below/ réseaux sociaux en bas
 
 <div>
 
