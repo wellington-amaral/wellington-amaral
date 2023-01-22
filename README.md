@@ -6,6 +6,7 @@
 ##### "O mundo não espera por você, então se mexa" Autor desconhecido.
 ##### "Seja uma raposa e um leão. Seja esperto como uma raposa que é capaz de descobrir uma armadilha, mas mostre a coragem de um leão que é capaz de afugentar os lobos." Maquiavel
 ##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos." Livro: Os segredos da mente milionária.
+  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974,_2020%E2%80%93present).svg)">
 
 <div>
 
