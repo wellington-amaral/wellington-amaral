@@ -1,10 +1,11 @@
 # Bem-vindo(a) ao perfil do Wellington Amaral, ou se preferir Well.
 #### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas que me agregam, para mim vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas. Mas confesso que às vezes falta com quem conversar sobre tudo isso.😁
-E abaixo segue algunas frases que moivam: 
-##### "Grandes realizações são possiveis quando se dá atenção aos pequenos começos. Lao-Tse." 
-##### "O mundo não espera por você, então se mexa"
-##### "“Seja uma raposa e um leão. Seja esperto como uma raposa que é capaz de descobrir uma armadilha, mas mostre a coragem de um leão que é capaz de afugentar os lobos. Maquiavel”
-##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos. Livro: Os seguesdos da mente milionária"
+
+<b> E abaixo segue algunas frases que moivam: <b/>
+##### "Grandes realizações são possiveis quando se dá atenção aos pequenos começos." Lao-Tse.
+##### "O mundo não espera por você, então se mexa" Autor desconhecido.
+##### "Seja uma raposa e um leão. Seja esperto como uma raposa que é capaz de descobrir uma armadilha, mas mostre a coragem de um leão que é capaz de afugentar os lobos." Maquiavel
+##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos." Livro: Os seguesdos da mente milionária.
 
 <div>
 
