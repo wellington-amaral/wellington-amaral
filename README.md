@@ -1,5 +1,6 @@
 # Bem-vindo(a) ao perfil do Wellington Amaral, ou se preferir Well.
-### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas me agregam, vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas.
+### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas que me agregam, para mim vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas.
+#### Grandes realizações são possiveis quando se dá atenção aos pequenos começos. Lao-Tse.
 
 <div>
 
