@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do Wellington Amaral, ou se preferir Well.
+# Bem-vindo(a) ao perfil do Wellington Amaral, ou se preferir, Well.
 #### Sobre mim: Sou um amante do conhecimento, meu passa-tempo é pesquisar coisas que me agregam, para mim vale mais documentários a filmes. Gosto te ter conversas interessantes sobre ivestimentos, programação e idiomas. Mas confesso que às vezes falta com quem conversar sobre tudo isso.😁
 
 <b> E abaixo segue algumas frases que motivam: <b/>
