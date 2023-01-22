@@ -5,7 +5,7 @@
 ##### "Grandes realizações são possiveis quando se dá atenção aos pequenos começos." Lao-Tse.
 ##### "O mundo não espera por você, então se mexa" Autor desconhecido.
 ##### "Seja uma raposa e um leão. Seja esperto como uma raposa que é capaz de descobrir uma armadilha, mas mostre a coragem de um leão que é capaz de afugentar os lobos." Maquiavel
-##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos." Livro: Os seguesdos da mente milionária.
+##### "Nenhum pensamento mora de graça na cabeça de ninguém, ou eles são investimentos ou custos." Livro: Os segredos da mente milionária.
 
 <div>
 
